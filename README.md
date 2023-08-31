@@ -1,5 +1,4 @@
-# oasobijava
-Easy typing
+#Easy typing
 
 gametext.txtで問題の設定ができるjavaのタイピングゲーム。
 問題文のフォーマットは
